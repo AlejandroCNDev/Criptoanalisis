@@ -14,6 +14,7 @@ def fermat(n):
 
 # Defining main function
 def main():
+    print(fermat(17914958525732800395362204845873))  # n <32>
     print(fermat(2534389177))  # n <32>
     print(fermat(2901095863))  # n <32>
     print(fermat(137253386980207))  # n <48>

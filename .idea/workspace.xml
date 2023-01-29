@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de8ddaea-a9c0-416f-a274-82ff1494a12b" name="Changes" comment="Fix bugs">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Criptología.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoritmoYuval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoritmoYuval/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoritmoYuval/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoritmoYuval/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtaqueArcoiris" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prueba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoritmoYuval/algoritmoYuval.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoritmoYuval/algoritmoYuval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris/experiments.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris/experiments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorización/Fermat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Factorización/Fermat.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AtaqueArcoiris" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="383618df-3251-413f-a43f-e8b6bec3f21c" />
+        <option name="url" value="https://github.com/AlejandroCNDev/FuncionesResumen.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPF71yytO5wdMbZ6gBXiF7R2s6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ALEJANDRO-PC/PycharmProjects/Criptología",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "debugger.dataViews"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ALEJANDRO-PC\PycharmProjects\Criptología\LogaritmoDiscreto(DL)" />
+      <recent name="C:\Users\ALEJANDRO-PC\PycharmProjects\Criptología" />
+      <recent name="C:\Users\ALEJANDRO-PC\PycharmProjects\Criptología\LogaritmoDiscreto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.experiments">
+    <configuration name="ExperimentosFactorizacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Criptología" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Factorización" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorización/ExperimentosFactorizacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fermat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Criptología" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Factorización" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorización/Fermat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PollardRho" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Criptología" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogaritmoDiscreto(DL)/PollardRho.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Criptología" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtaqueArcoiris" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtaqueArcoiris/experiments.py" />
+      <option name="PARAMETERS" value="-a crc32 -n 1 -b 32" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiments(yuval)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Criptología" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlgoritmoYuval" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AlgoritmoYuval/experiments.py" />
+      <option name="PARAMETERS" value="-a md5 -n 1 -b 40" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.experiments" />
+      <item itemvalue="Python.Fermat" />
+      <item itemvalue="Python.experiments(yuval)" />
+      <item itemvalue="Python.ExperimentosFactorizacion" />
+      <item itemvalue="Python.PollardRho" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.experiments" />
+        <item itemvalue="Python.experiments(yuval)" />
+        <item itemvalue="Python.Fermat" />
+        <item itemvalue="Python.ExperimentosFactorizacion" />
+        <item itemvalue="Python.PollardRho" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de8ddaea-a9c0-416f-a274-82ff1494a12b" name="Changes" comment="" />
+      <created>1673868141392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673868141392</updated>
+      <workItem from="1673868142994" duration="245000" />
+      <workItem from="1673868434657" duration="46000" />
+      <workItem from="1674055609646" duration="11061000" />
+      <workItem from="1674069838316" duration="1517000" />
+      <workItem from="1674087087523" duration="2970000" />
+      <workItem from="1674210075957" duration="2727000" />
+      <workItem from="1674214331303" duration="302000" />
+      <workItem from="1674387880745" duration="3072000" />
+      <workItem from="1674404740382" duration="594000" />
+      <workItem from="1674473738204" duration="6712000" />
+      <workItem from="1674486617898" duration="1952000" />
+      <workItem from="1674488608705" duration="41000" />
+      <workItem from="1674488658943" duration="5400000" />
+      <workItem from="1674498962493" duration="37000" />
+      <workItem from="1674507045454" duration="1370000" />
+      <workItem from="1674508584623" duration="1684000" />
+      <workItem from="1674564585086" duration="9162000" />
+      <workItem from="1674581773115" duration="5339000" />
+      <workItem from="1674588162713" duration="729000" />
+      <workItem from="1674588905896" duration="136000" />
+      <workItem from="1674590189942" duration="3089000" />
+      <workItem from="1674752218094" duration="446000" />
+      <workItem from="1674994626382" duration="1995000" />
+      <workItem from="1675005905626" duration="7299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix bugs">
+      <created>1674588337461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674588337461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bugs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="table" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Criptología$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1674087739234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
+    <SUITE FILE_PATH="coverage/Criptología$Lenstra1.coverage" NAME="Lenstra1 Coverage Results" MODIFIED="1674479260527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$pyDLP.coverage" NAME="pyDLP Coverage Results" MODIFIED="1674488882223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)/IndexCalculus" />
+    <SUITE FILE_PATH="coverage/Criptología$experiments__1_.coverage" NAME="experiments Coverage Results" MODIFIED="1675023825205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtaqueArcoiris" />
+    <SUITE FILE_PATH="coverage/Criptología$prueba__1_.coverage" NAME="prueba (1) Coverage Results" MODIFIED="1674211251077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
+    <SUITE FILE_PATH="coverage/Criptología$PollardRho.coverage" NAME="PollardRho Coverage Results" MODIFIED="1674576798943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+    <SUITE FILE_PATH="coverage/Criptología$CribaRacional.coverage" NAME="CribaRacional Coverage Results" MODIFIED="1674490543826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$Fermat.coverage" NAME="Fermat Coverage Results" MODIFIED="1674752345931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$Lenstra.coverage" NAME="Lenstra Coverage Results" MODIFIED="1674479446331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$experiments.coverage" NAME="experiments Coverage Results" MODIFIED="1674996138288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
+    <SUITE FILE_PATH="coverage/Criptología$algoritmoYuval.coverage" NAME="algoritmoYuval Coverage Results" MODIFIED="1674056503736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
+    <SUITE FILE_PATH="coverage/Criptología$DivPorTentativa.coverage" NAME="DivPorTentativa Coverage Results" MODIFIED="1674490284769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$PollardRho__1_.coverage" NAME="PollardRho (1) Coverage Results" MODIFIED="1674480131339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+    <SUITE FILE_PATH="coverage/Criptología$IndexCalculus.coverage" NAME="IndexCalculus Coverage Results" MODIFIED="1674487516198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+    <SUITE FILE_PATH="coverage/Criptología$ataqueArcoiris.coverage" NAME="ataqueArcoiris Coverage Results" MODIFIED="1674490658383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtaqueArcoiris" />
+    <SUITE FILE_PATH="coverage/Criptología$ExperimentosDL.coverage" NAME="ExperimentosDL Coverage Results" MODIFIED="1674576223784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+    <SUITE FILE_PATH="coverage/Criptología$CribaCuadratica.coverage" NAME="CribaCuadratica Coverage Results" MODIFIED="1674478928028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$ExperimentosFactorizacion.coverage" NAME="ExperimentosFactorizacion Coverage Results" MODIFIED="1674587532059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$BabyStepGiantStep.coverage" NAME="BabyStepGiantStep Coverage Results" MODIFIED="1674565070434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
+  </component>
+</project>
