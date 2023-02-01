@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de8ddaea-a9c0-416f-a274-82ff1494a12b" name="Changes" comment="Fix bugs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorización/Fermat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Factorización/Fermat.py" afterDir="false" />
-    </list>
+    <list default="true" id="de8ddaea-a9c0-416f-a274-82ff1494a12b" name="Changes" comment="Fix bugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,6 +230,7 @@
       <workItem from="1675005905626" duration="10406000" />
       <workItem from="1675071842032" duration="8775000" />
       <workItem from="1675100307120" duration="1404000" />
+      <workItem from="1675248817403" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="Fix bugs">
       <created>1674588337461</created>
@@ -256,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675031387122</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix bugs">
+      <created>1675248828709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675248828709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
