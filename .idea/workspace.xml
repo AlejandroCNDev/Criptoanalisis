@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="de8ddaea-a9c0-416f-a274-82ff1494a12b" name="Changes" comment="Fix bugs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris/ataqueArcoiris.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris/experiments.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris/experiments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtaqueArcoiris" beforeDir="false" afterPath="$PROJECT_DIR$/AtaqueArcoiris" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorización/Fermat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Factorización/Fermat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AtaqueArcoiris" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -54,17 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ALEJANDRO-PC/PycharmProjects/Criptología",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "debugger.dataViews"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALEJANDRO-PC/PycharmProjects/Criptología&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ALEJANDRO-PC\PycharmProjects\Criptología\LogaritmoDiscreto(DL)" />
@@ -72,7 +72,7 @@
       <recent name="C:\Users\ALEJANDRO-PC\PycharmProjects\Criptología\LogaritmoDiscreto" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.experiments">
+  <component name="RunManager" selected="Python.Fermat">
     <configuration name="ExperimentosFactorizacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Criptología" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,9 +192,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fermat" />
         <item itemvalue="Python.experiments" />
         <item itemvalue="Python.experiments(yuval)" />
-        <item itemvalue="Python.Fermat" />
         <item itemvalue="Python.ExperimentosFactorizacion" />
         <item itemvalue="Python.PollardRho" />
       </list>
@@ -231,7 +231,9 @@
       <workItem from="1674590189942" duration="3089000" />
       <workItem from="1674752218094" duration="446000" />
       <workItem from="1674994626382" duration="1995000" />
-      <workItem from="1675005905626" duration="8259000" />
+      <workItem from="1675005905626" duration="10406000" />
+      <workItem from="1675071842032" duration="8775000" />
+      <workItem from="1675100307120" duration="1404000" />
     </task>
     <task id="LOCAL-00001" summary="Fix bugs">
       <created>1674588337461</created>
@@ -247,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675024858295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix bugs">
+      <created>1675031387122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675031387122</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +303,7 @@
     <SUITE FILE_PATH="coverage/Criptología$prueba__1_.coverage" NAME="prueba (1) Coverage Results" MODIFIED="1674211251077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
     <SUITE FILE_PATH="coverage/Criptología$PollardRho.coverage" NAME="PollardRho Coverage Results" MODIFIED="1674576798943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogaritmoDiscreto(DL)" />
     <SUITE FILE_PATH="coverage/Criptología$CribaRacional.coverage" NAME="CribaRacional Coverage Results" MODIFIED="1674490543826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
-    <SUITE FILE_PATH="coverage/Criptología$Fermat.coverage" NAME="Fermat Coverage Results" MODIFIED="1674752345931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
+    <SUITE FILE_PATH="coverage/Criptología$Fermat.coverage" NAME="Fermat Coverage Results" MODIFIED="1675104672738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
     <SUITE FILE_PATH="coverage/Criptología$Lenstra.coverage" NAME="Lenstra Coverage Results" MODIFIED="1674479446331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Factorización" />
     <SUITE FILE_PATH="coverage/Criptología$experiments.coverage" NAME="experiments Coverage Results" MODIFIED="1674996138288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
     <SUITE FILE_PATH="coverage/Criptología$algoritmoYuval.coverage" NAME="algoritmoYuval Coverage Results" MODIFIED="1674056503736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoritmoYuval" />
